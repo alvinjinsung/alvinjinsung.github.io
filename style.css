@@ -421,7 +421,6 @@ h3 {
     color: #a0a8b0;
     font-size: 6px;
     border-top: 1px solid #ddd;
-    margin-top: 30px;
+    /* margin-top: 30px; */
     margin-bottom: 30px;
-    clear: both;
 }
