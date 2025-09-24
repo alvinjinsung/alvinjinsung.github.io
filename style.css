@@ -290,7 +290,7 @@ h3 {
 .research {
     /*padding: 30px;*/
     /*padding-bottom: 30px;*/
-    margin-bottom: 120px;
+    /* margin-bottom: 120px; */
 }
 
 
@@ -419,7 +419,9 @@ h3 {
     text-align: center;
     padding: 30px;
     color: #a0a8b0;
-    font-size: 12px;
+    font-size: 6px;
     border-top: 1px solid #ddd;
     margin-top: 30px;
+    margin-bottom: 30px;
+    clear: both;
 }
