@@ -290,6 +290,7 @@ h3 {
 .research {
     /*padding: 30px;*/
     /*padding-bottom: 30px;*/
+    margin-bottom: 120px;
 }
 
 
@@ -359,10 +360,6 @@ h3 {
 #lessPubsBtn {
     display: none;
     margin-left: 30px;
-}
-
-.section.research {
-    margin-bottom: 120px;
 }
 
 /**************************************************/
