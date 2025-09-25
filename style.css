@@ -290,7 +290,7 @@ h3 {
 .research {
     /*padding: 30px;*/
     /*padding-bottom: 30px;*/
-    /* margin-bottom: 120px; */
+    margin-bottom: 30px;
 }
 
 
@@ -416,11 +416,11 @@ h3 {
 /**************************************************/
 
 .footer {
-    text-align: center;
+    text-align: right;
     padding: 30px;
     color: #a0a8b0;
-    font-size: 6px;
+    font-size: 8px;
     border-top: 1px solid #ddd;
-    /* margin-top: 30px; */
+    margin-top: 30px;
     margin-bottom: 30px;
 }
