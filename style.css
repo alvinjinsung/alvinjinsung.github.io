@@ -460,11 +460,11 @@ h3 {
 }
 
 .news-text strong {
-    color: #003373;
-    font-weight: 700;
+    color: #003373 !important;;
+    font-weight: 700 !important;;
 }
 
-.news-text special {
+.news-text .special {
     color: #fdc450;
     font-weight: 700;
 }
