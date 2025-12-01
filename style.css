@@ -429,3 +429,32 @@ h3 {
     margin-top: 30px;
     margin-bottom: 30px;
 }
+
+/**************************************************/
+
+
+.news {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.news-item {
+    margin-left: 30px;
+    margin-bottom: 16px;
+    font-size: 14px;
+    line-height: 22px;
+    color: #191e3f;
+    display: flex;
+}
+
+.news-symbol {
+    color: #003373;
+    font-weight: bold;
+    margin-right: 10px;
+    font-size: 16px;
+    line-height: 22px;
+}
+
+.news-text {
+    flex: 1;
+}
